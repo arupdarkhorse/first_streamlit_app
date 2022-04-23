@@ -1,1 +1,0 @@
-# adf_generic_json
